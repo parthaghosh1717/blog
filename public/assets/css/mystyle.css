@@ -1,0 +1,75 @@
+/*.imageholder{
+	margin-left:20px;
+}
+	
+#pic{
+ 	display: none;
+ 	 
+}
+       
+ .newbtn{
+    cursor: pointer;
+    border-radius: 10px 40px;
+}
+#blah{
+  max-width:300px;
+  min-width: 250px;
+  height:120px;
+  border-radius: 10px 40px;   
+  
+}
+*/
+
+
+
+#pic{
+     display: none;
+       }
+       
+ .newbtn{
+         cursor: pointer;
+      }
+      #blah{
+  max-width:100px;
+  height:100px;
+  margin-top:20px;
+}
+
+ /*Edite Page Image Style....*/
+div.polaroid {
+  width:120px;
+  height: 150px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 10px;
+}
+  
+.polaroid img{
+  width:100%; 
+  height: 70%;
+}
+#newimg{
+  padding: 10px 15px; 
+  color: white;
+  background-color: #739900;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+  color: white;
+  background-color: #739900;
+}
+
+#dbimage{
+  margin-left: 10px;
+}
+
+/*New Product Insert Image Container */
+
+.imgcontainer  {
+   border-radius: 20px 40px;
+   width: 200px;
+   height: 150px;
+   border:1px solid black;
+}
